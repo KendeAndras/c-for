@@ -1,0 +1,14 @@
+C:\Users\f26xc0\Desktop\RainyDay\bin\Debug\net6.0\RainyDay.exe
+C:\Users\f26xc0\Desktop\RainyDay\bin\Debug\net6.0\RainyDay.deps.json
+C:\Users\f26xc0\Desktop\RainyDay\bin\Debug\net6.0\RainyDay.runtimeconfig.json
+C:\Users\f26xc0\Desktop\RainyDay\bin\Debug\net6.0\RainyDay.dll
+C:\Users\f26xc0\Desktop\RainyDay\bin\Debug\net6.0\RainyDay.pdb
+C:\Users\f26xc0\Desktop\RainyDay\obj\Debug\net6.0\RainyDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f26xc0\Desktop\RainyDay\obj\Debug\net6.0\RainyDay.AssemblyInfoInputs.cache
+C:\Users\f26xc0\Desktop\RainyDay\obj\Debug\net6.0\RainyDay.AssemblyInfo.cs
+C:\Users\f26xc0\Desktop\RainyDay\obj\Debug\net6.0\RainyDay.csproj.CoreCompileInputs.cache
+C:\Users\f26xc0\Desktop\RainyDay\obj\Debug\net6.0\RainyDay.dll
+C:\Users\f26xc0\Desktop\RainyDay\obj\Debug\net6.0\refint\RainyDay.dll
+C:\Users\f26xc0\Desktop\RainyDay\obj\Debug\net6.0\RainyDay.pdb
+C:\Users\f26xc0\Desktop\RainyDay\obj\Debug\net6.0\RainyDay.genruntimeconfig.cache
+C:\Users\f26xc0\Desktop\RainyDay\obj\Debug\net6.0\ref\RainyDay.dll
